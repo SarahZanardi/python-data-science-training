@@ -1,0 +1,30 @@
+
+INÍCIO
+
+    ESCOLHER uma palavra secreta
+    CRIAR uma palavra escondida com "_"
+
+    DEFINIR tentativas = 6
+
+    ENQUANTO tentativas > 0 E palavra escondida tem "_"
+        MOSTRAR palavra escondida
+        MOSTRAR tentativas restantes
+
+        PEDIR uma letra para o jogador
+        LER letra
+
+        SE letra está na palavra secreta
+            REVELAR a letra na palavra escondida
+        SENÃO
+            DIMINUIR tentativas em 1
+        FIM SE
+
+    FIM ENQUANTO
+
+    SE palavra escondida NÃO tem "_"
+        MOSTRAR "Você ganhou!"
+    SENÃO
+        MOSTRAR "Você perdeu! A palavra era:" + palavra secreta
+    FIM SE
+
+FIM
