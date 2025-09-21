@@ -1,7 +1,8 @@
 Fundamentos de Linguagem Python - Do Básico a Aplicações de IA 📊
 
-Bem-vindo ao repositório do curso Fundamentos de Linguagem Python - Do Básico a Aplicações de IA!
-Este curso é voltado para quem deseja aprender Python desde os conceitos mais básicos até aplicações avançadas em Machine Learning e Deep Learning. 🚀
+Olá! 👋
+Este repositório contém todo o conteúdo do curso Fundamentos de Linguagem Python - Do Básico a Aplicações de IA.
+O curso é ideal para quem quer aprender Python do zero e avançar até Machine Learning e Deep Learning. 🚀
 
 📚 Ementa do Curso
 
@@ -47,7 +48,7 @@ Avaliação final e Certificado de Conclusão
 
 🛠️ Tecnologias e Bibliotecas
 
-Durante o curso, você aprenderá a trabalhar com:
+Durante o curso, você vai trabalhar com:
 
 Python
 
@@ -69,5 +70,5 @@ TensorFlow
 
 🤝 Contribuições
 
-Contribuições são bem-vindas!
-Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções ou sugestões de conteúdo.
+Contribuições são sempre bem-vindas!
+Se você quiser sugerir melhorias, corrigir erros ou adicionar novos conteúdos, abra uma issue ou envie um pull request.
